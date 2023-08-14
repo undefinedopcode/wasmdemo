@@ -7,3 +7,5 @@ This example is a simple webapp that demonstrates calling Go code from Javascrip
 ```
 make serve
 ```
+
+Open a browser to `http://localhost:6581`.
